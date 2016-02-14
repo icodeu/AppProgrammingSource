@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_ip1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="线上环境" />
+    <item
+        android:id="@+id/menu_ip2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="测试环境"/>
+    <item
+        android:id="@+id/menu_ip3"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="灰度环境"/>
+    
+</menu>

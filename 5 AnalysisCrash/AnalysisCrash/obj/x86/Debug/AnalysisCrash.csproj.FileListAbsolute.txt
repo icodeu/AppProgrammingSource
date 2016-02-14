@@ -1,0 +1,11 @@
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\bin\Debug\RegexRules.xml
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\bin\Debug\AnalysisCrash.exe.config
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\bin\Debug\AnalysisCrash.exe
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\bin\Debug\AnalysisCrash.pdb
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\AnalysisCrash.Form1.resources
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\AnalysisCrash.Properties.Resources.resources
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\AnalysisCrash.exe
+D:\Users\baojianqiang\Documents\Visual Studio 2010\Projects\AnalysisCrash\AnalysisCrash\obj\x86\Debug\AnalysisCrash.pdb

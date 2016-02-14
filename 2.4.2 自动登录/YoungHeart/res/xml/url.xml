@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+    <Node
+        Key="getWeatherInfo"
+        Expires="300"
+        NetType="get"
+        Url="http://www.pocketdigi.com/20110521/296.html" />
+
+    <Node
+        Key="login"
+        Expires="0"
+        NetType="post"
+        MockClass="com.youngheart.mockdata.MockLoginSuccessInfo"
+        Url="http://www.weather.com.cn/data/sk/101010100.html" />
+</url>
+

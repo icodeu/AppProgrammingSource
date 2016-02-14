@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rules>
+  <Rule name="r1" from=".java:\d*" to=".java:1000"></Rule>
+  <Rule name="r2" from="@\w{8}" to="@12345678"></Rule>
+  <Rule name="r3" from="request=\d*" to="request=1000"></Rule>
+</Rules>
+

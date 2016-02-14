@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+    <Node 
+        Key="gotoPersonCenter" 
+        Target="com.example.youngheart.MovieDetailActivity"
+        />
+    
+    <Node 
+        Key="gotoMovieDetail" 
+        Target="com.example.youngheart.MovieDetailActivity"
+        />
+    
+    <Node 
+        Key="gotoNewsList" 
+        Target="com.example.youngheart.NewsListActivity"
+        />    
+</url>
+
